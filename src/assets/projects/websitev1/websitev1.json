@@ -1,0 +1,15 @@
+{
+  "title": "Website v1",
+  "timeframe": "SUMMER 2019",
+  "description": "First portfolio website I designed and built in 2019 using Vue.js This website (v2), focuses on scalable code architectural design, avoiding superfluous libraries, thinking mobile-first, responsive design, and design system inheritance.",
+  "primaryColor": "#FCECBA",
+  "secondaryColor": "",
+  "textColor": "#000000",
+  "actions": [
+    {
+      "icon": "info-icon",
+      "text": "Visit",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "title": "PrivacyFlash Pro",
+  "timeframe": "2019-2021",
+  "description": "Privacy policy generator built with web technologies as a Mac App that automatically generates a privacy policy from code.",
+  "primaryColor": "#4AA0B5",
+  "secondaryColor": "#E5FAFF",
+  "textColor": "#FFFFFF",
+  "actions": [
+    {
+      "icon": "news-icon",
+      "text": "NDSS Publication",
+      "link": ""
+    },
+    {
+      "icon": "github-icon",
+      "text": "Repo",
+      "link": "https://github.com/privacy-tech-lab/privacyflash-pro"
+    },
+    {
+      "icon": "info-icon",
+      "text": "Learn More",
+      "link": "/pfp"
+    }
+  ]
+}

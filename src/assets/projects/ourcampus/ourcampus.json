@@ -1,0 +1,25 @@
+{
+  "title": "OurCampus",
+  "timeframe": "2019-2021",
+  "description": "iOS and android apps for students to explore events, rate professors, and more.",
+  "primaryColor": "#EF3D59",
+  "secondaryColor": "#FFE9EC",
+  "textColor": "#FFFFFF",
+  "actions": [
+    {
+      "icon": "apple-icon",
+      "text": "App Store",
+      "link": "https://apps.apple.com/us/app/ourcampuswes/id1447905927?ls=1"
+    },
+    {
+      "icon": "playstore-icon",
+      "text": "Play Store",
+      "link": "https://play.google.com/store/apps/details?id=dev.davebaraka.ourcampus&hl=en_US&gl=US"
+    },
+    {
+      "icon": "info-icon",
+      "text": "Learn More",
+      "link": "/ourcampus"
+    }
+  ]
+}

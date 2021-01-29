@@ -1,0 +1,15 @@
+{
+  "title": "Face Obfuscator",
+  "timeframe": "FALL 2020",
+  "description": "Built a chrome browser extension that uses machine learning - face detection and recognition algorithms, to dynamically and locally block pre-trained faces from images loaded in chrome.",
+  "primaryColor": "#FF9292",
+  "secondaryColor": "",
+  "textColor": "#ffffff",
+  "actions": [
+    {
+      "icon": "github-icon",
+      "text": "Repo",
+      "link": "https://github.com/davebaraka/face-obfuscator"
+    }
+  ]
+}

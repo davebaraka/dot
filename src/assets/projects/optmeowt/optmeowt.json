@@ -1,0 +1,20 @@
+{
+  "title": "OptMeowt",
+  "timeframe": "SPTRING 2020",
+  "description": "Designed and initiated development of browser extension for sending Do Not Sell signals to websites.",
+  "primaryColor": "#CEEDFD",
+  "secondaryColor": "",
+  "textColor": "#000000",
+  "actions": [
+    {
+      "icon": "github-icon",
+      "text": "Repo",
+      "link": "https://github.com/privacy-tech-lab/optmeowt-browser-extension"
+    },
+    {
+      "icon": "news-icon",
+      "text": "Press",
+      "link": "http://newsletter.blogs.wesleyan.edu/2020/10/11/zimmeck-spearheads-launch-of-important-online-privacy-tool/"
+    }
+  ]
+}

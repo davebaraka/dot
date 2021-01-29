@@ -1,0 +1,15 @@
+{
+  "title": "Sketch Plugin",
+  "timeframe": "SUMMER 2020",
+  "description": "Designed and built a Sketch plugin that automates Intuit QuickBooks’ Dark Mode design standards from the Design System as part of my summer Design Internship at Intuit.",
+  "primaryColor": "#EF7004",
+  "secondaryColor": "",
+  "textColor": "#FFFFFF",
+  "actions": [
+    {
+      "icon": "info-icon",
+      "text": "Learn More",
+      "link": "/sketchplugin"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+At Intuit, themeing was becoming a reality in product and Product Designers needed an easy way to tranform their designs. As part of my Intuit Summer Design Internship, I built a sketch plugin that automates the Dark Mode design standards - transforming 'light mode' designs to 'dark mode' designs, which allows designers to quickly conceptualize their designs in a theme.

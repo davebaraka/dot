@@ -1,0 +1,21 @@
+{
+    "title": "IDEAS Portfolio",
+    "timeframe": "2017-2021",
+    "description": "Various projects created as a part of the Integrated Design, Engineering, and Applied Sciences Program.",
+    "primaryColor": "#D89982",
+    "secondaryColor": "#FFE7DE",
+    "textColor": "#FFFFFF",
+    "actions": [
+      {
+        "icon": "news-icon",
+        "text": "Press",
+        "link": "https://www.youtube.com/watch?v=E3Z6o58E1-4&feature=emb_logo"
+      },
+      {
+        "icon": "info-icon",
+        "text": "Learn More",
+        "link": "/ideas"
+      }
+    ]
+  }
+  

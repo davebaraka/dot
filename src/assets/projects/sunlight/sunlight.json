@@ -1,0 +1,15 @@
+{
+  "title": "Sunlight",
+  "timeframe": "WINTER 2021",
+  "description": "Designed and developed marketing website using Webflow. Also, redesigned client logo.",
+  "primaryColor": "#268DC8",
+  "secondaryColor": "",
+  "textColor": "#ffffff",
+  "actions": [
+    {
+      "icon": "info-icon",
+      "text": "Visit",
+      "link": ""
+    }
+  ]
+}

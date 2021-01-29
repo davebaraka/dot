@@ -1,0 +1,15 @@
+{
+  "title": "Duino",
+  "timeframe": "SPRING 2020",
+  "description": "Designed and built iOS and android apps to wirelessly connect to arduino using bluetooth. Built using a cross platform development framework - Flutter.",
+  "primaryColor": "#834CF1",
+  "secondaryColor": "",
+  "textColor": "#FFFFFF",
+  "actions": [
+    {
+      "icon": "github-icon",
+      "text": "Repo",
+      "link": "https://github.com/davebaraka/duino"
+    }
+  ]
+}
