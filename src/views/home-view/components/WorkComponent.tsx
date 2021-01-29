@@ -13,8 +13,8 @@ import OptMeowtLogo from "../../../assets/projects/optmeowt/logo.png"
 import OptMeowtJson from "../../../assets/projects/optmeowt/optmeowt.json"
 import SunlightLogo from "../../../assets/projects/sunlight/logo.png"
 import SunlightJson from "../../../assets/projects/sunlight/sunlight.json"
-import WebsiteV1Logo from "../../../assets/projects/websitev1/logo.png"
-import WebsiteV1Json from "../../../assets/projects/websitev1/websitev1.json"
+import BionLogo from "../../../assets/projects/bion/logo.png"
+import BionJson from "../../../assets/projects/bion/bion.json"
 
 const WorkComponent = () => {
   const projects = [
@@ -39,8 +39,8 @@ const WorkComponent = () => {
       logo: SunlightLogo,
     },
     {
-      data: WebsiteV1Json,
-      logo: WebsiteV1Logo,
+      data: BionJson,
+      logo: BionLogo,
     },
   ]
 
